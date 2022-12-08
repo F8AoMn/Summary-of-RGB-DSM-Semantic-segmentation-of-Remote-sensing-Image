@@ -23,5 +23,5 @@
 02 | **ISPRS J PHOTOGRAMM** | Transformer-induced graph reasoning for multimodal semantic segmentation in remote sensing | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271622002192)/Code
 03 | **IJAEOG** | DASFNet: Dense-Attention–Similarity-Fusion Network for scene classification of dual-modal remote-sensing images |[Paper](https://www.sciencedirect.com/science/article/pii/S1569843222002758)/Code
 04 | **Neurocomputing** | Multi-source collaborative enhanced for remote sensing images semantic segmentation | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231222004106)/Code
-05 | **JSTSP** | 	CIMFNet: Cross-layer Interaction and Multiscale Fusion Network for Semantic Segmentation of High-Resolution Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/abstract/document/9735276)/Code
+05 | **JSTSP** | CIMFNet: Cross-layer Interaction and Multiscale Fusion Network for Semantic Segmentation of High-Resolution Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/abstract/document/9735276)/Code
 06 | **RS** | Deep-Separation Guided Progressive Reconstruction Network for Semantic Segmentation of Remote Sensing Images | [Paper](https://www.mdpi.com/2072-4292/14/21/5510)/Code
